@@ -28,14 +28,14 @@
     <string name="activate_reminder_service">Activate reminder service</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
-    <string name="account_icon">account icon</string>
+    <string name="account_icon" translatable="false">account icon</string>
     <string name="add_date_of_birth">add date of birth</string>
     <string name="new_birthday">+</string>
     <string name="editor_phone">Phone</string>
     <string name="no_contacts_permission">No permission to read and write contacts</string>
 
 
-    <string name="notificationChannelName" translatable="false">BirthdayReminderNotification</string>
+    <string name="notificationChannelName" translatable="false">Birthday Reminder notification</string>
     <string name="notificationDescription" translatable="false">Notification to show the next birthdays</string>
     <string name="daysbefore">Days before reminder</string>
     <string name="hideNotification">Hide notification after confirmation</string>
